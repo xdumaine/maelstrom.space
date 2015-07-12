@@ -1,0 +1,20 @@
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+/bower_components
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage/*
+/libpeerconnection.log
+/.idea
+npm-debug.log
+testem.log
+web-directory.iml
+.DS_Store
+tests/xunit.xml
+/webtask/private
